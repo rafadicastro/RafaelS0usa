@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Rafael Castro.
 - 🌱 Hoje estou aprendendo Javascript e NodeJS
 - 📫 Contate-me no email: sousarafael151@gmail.com
-- 📫 Contate-me via LinkedIn: linkedin.com/in/rafael-de-sousa-castro/
 - 😄 Pronouns: Ele/Dele
 
 <div align="center">
